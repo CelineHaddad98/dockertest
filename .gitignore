@@ -117,9 +117,15 @@ celerybeat.pid
 env/
 venv/
 ENV/
+<<<<<<< HEAD
 my_address/
 env.bak/
 venv.bak/
+=======
+env.bak/
+venv.bak/
+my_address/
+>>>>>>> 1ca113c24718f783797e9df98663decf6d1fd270
 
 # Spyder project settings
 .spyderproject
